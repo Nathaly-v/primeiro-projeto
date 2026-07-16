@@ -88,3 +88,32 @@ Editar → `git add .` → `git commit -m ""` → `git push`
 
 - Não alterar commits já enviados ao GitHub.
 - Preferir `git revert` quando o commit já foi publicado.
+
+---
+
+## Dia 4 - Mais recursos (Módulo 5)
+
+### Recursos
+
+- README.md → Documentação do projeto.
+- Markdown → Formatação de README.
+- .gitignore → Ignora arquivos e pastas no Git.
+- GitHub Gist → Compartilhar trechos de código.
+
+### Conceitos
+
+- README bem feito facilita o entendimento do projeto.
+- Nem todo arquivo deve ir para o GitHub.
+- O perfil do GitHub pode ter um README personalizado.
+- Branches permitem trabalhar em funcionalidades separadas.
+- Merge une alterações de diferentes branches.
+
+### Boas práticas
+
+- Documentar todos os projetos.
+- Utilizar `.gitignore`.
+- Manter o README atualizado.
+
+### 🎯 Conquista
+
+- ✅ Curso **Git e GitHub: compartilhando e colaborando em projetos** concluído.
